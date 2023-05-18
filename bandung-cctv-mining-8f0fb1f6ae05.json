@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bandung-cctv-mining",
+  "private_key_id": "8f0fb1f6ae0587618167bbc58fc49f3d6aa0b112",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCo33IbEdCR9hB/\nqob7yLKJUI7Pfc4EJYVxkLHB7Oh9T7D3amU4m8l6vwFfosTMeKOqda3khY4HfNWW\nguHqWkMI9MC/TdirXJXgkaODkKrP0gcmU/ziq/6g2V06rEdqjEnb7j0ugPvAAXlt\nGn+g7F5DJ+ICoMC8O+Ob4RaXhOqNK9vwD1/P57FsNr3aqeNNl1DHZ777IqfwvXzx\n7g7UOW6EMAWQAfJnEo0SQHJMzE5z3vsrrqhm2VNv1rBSPbDQuxVTJwL3W1ebY5t3\n7+viBfjOKC/E1RvSknwcq6D9zsFEI6RLJ6S+3Yu6cIOXeUj3QDSzn4PmVKczBE6x\nSQoF390LAgMBAAECggEACVRCxP0QdSfPVIYyq9E0D8LsCMlt6qu5+gKg11JDq7yN\nzbVKfzyX/lhz9nkS/yrA++dBYokARiie0hBL87rlziZbSZY+3ISiYQQasOd6kD2N\nmI/2Pf17dR5c+KNQ1LGIWQaJybplbf+G2kCnAVhdgr8+zJ9d1mhGlDN0oI0+ueq1\n4bhpXhGXGpU5hw1j9ypAfIrI6qJiTLKt0T3vOtuYAZnBO5+EXO8ofJjG18pdvkV8\n2ox0Az/qyoQ5M4AvA8adSqEmyoXkEt5jZEWMqxdLjSwOSxKTqLfWxcMgxSzu7OBD\nHGPnLhprxFFFzen1mgQJGc0kO+f10It+d4R3HEXZfQKBgQDWBQREgMz0UljfZeUS\npa1ivJO6oo1z6VxE19abNPVb3UKCNamkC/Yf7Ld15CTtS1wwG69SAblCTH6YQ6aY\nppksOV0ErZ4dF6CQiBH7uBcA/kH7/qfpwojzuT4/OKjpTxZR4rLe974YU0bYBNBX\nT9byJS3J+rPKQUA2qe5cRf1qBQKBgQDJ/2L9uAnu5yU9yXKvmITyi/5NtjcGNDXf\nr8N8whowDZP4/C3Pr2TfbcfQkJbd4NTgfA246bVmfOU2ch7agnk7Eei4xO+Q7/vf\nuQlkij2xGyAda9IAKC8viTpdC+mg0W/j81yn8DuRDF7Mi5IIh6dDWIMMHZsDlhIV\nn7NNf50HzwKBgFuktEodGSY5qMKoYCnW9eLEu0F837NVpuP3xHabe8EFgrg9AFI1\nqQPMmlaKBeHylhwnjrA/+rNQDBlpRooxNH/CZHlfWsg8WM3q5kByeK89MMYWKpKn\ncXtjxCrQOUwGSJlxyIQ/c4/5AOn5TblFf9YaY3wMtTYTMMr3gxDSC4x9AoGAEbBO\nj99M52HQbg+0/lGB2ueNdmqteNqbmSIAIW2x82FNAvG6ZUR7teEcLVRsEbP9kEbs\nwLOekgH/5Hur3gCs8xJHad69B9ksGlRO0UIV0uuILWtisWbTcvs2ZC2F4PJWNQT7\nqS0tWi9WId1bBWozqH8YwrfY+kBrBv+8KN4y9xsCgYBNlc96nJ1m9cn+HzIfWL9T\n8hwL2byHWjPMHmi/F0L5XNXetDAlwcIbypVtKYtRkAY5MlSfGNW26MQ4LP0dUE6F\nC/OQRXVa9cWrYBIZuxl2RcNWiGqHYsEi5DR1GVpcZVaPUFUcX2J0FP0YVFFUdane\nN9W2bAcX0srIuLcqD3tBBw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cctv-data-mining@bandung-cctv-mining.iam.gserviceaccount.com",
+  "client_id": "101706051725286984152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cctv-data-mining%40bandung-cctv-mining.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
